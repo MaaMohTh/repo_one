@@ -1,3 +1,4 @@
-# something
+# Something
 
 Something else!
+For fun while learning... 
